@@ -5,5 +5,6 @@ public class Test {
         Test test = new Test();
         test.message = "Hello Ocean!";
         System.out.println(test.message);
+        System.out.println("Hello");
     }
 }
